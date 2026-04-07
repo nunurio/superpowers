@@ -1,9 +1,9 @@
 {
-  "name": "superpowers-dev",
-  "description": "Development marketplace for Superpowers core skills library",
+  "name": "genki-superpowers",
+  "description": "Personal marketplace for Genki's Superpowers fork",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "genki",
+    "email": "gt332417@gmail.com"
   },
   "plugins": [
     {
@@ -12,8 +12,8 @@
       "version": "5.0.7",
       "source": "./",
       "author": {
-        "name": "Jesse Vincent",
-        "email": "jesse@fsck.com"
+        "name": "genki",
+        "email": "gt332417@gmail.com"
       }
     }
   ]
